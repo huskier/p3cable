@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 1488.189 1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="SchPCB_template.svg"
+   inkscape:export-filename="/home/huskier/siom-work/02/PCB/MECU_Interlock.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1488.189 : 526.18109 : 1"
+       inkscape:persp3d-origin="744.09448 : 350.78739 : 1"
+       id="perspective1179" />
+    <clipPath
+       id="clipPath4150"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152"
+         d="m 0,0 595.22,0 0,842 L 0,842 0,0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6675"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6677"
+         d="m 51.36,651.46 198.77,0 0,135.62 -198.77,0 0,-135.62 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath6707"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path6709"
+         d="m 49.44,649.42 202.73,0 0,139.58 -202.73,0 0,-139.58 z" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective6130"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="647.14861"
+     inkscape:cy="514.42822"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="904"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1.6535432e-6)">
+    <g
+       id="g5058"
+       transform="matrix(0,1.25,1.25,0,23.001254,1036.1853)">
+      <path
+         d="m 0,0 -806.117,0 0,1155.199"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5060"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5062"
+       transform="matrix(0,1.25,1.25,0,103.97625,1036.1853)">
+      <path
+         d="M 0,0 -806.117,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5064"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5066"
+       transform="matrix(0,1.25,1.25,0,1143.1138,982.20404)">
+      <path
+         d="M 0,0 0,122.357"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5068"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5070"
+       transform="matrix(0,1.25,1.25,0,1143.1138,1009.1953)">
+      <path
+         d="M 0,0 0,122.357"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5072"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5074"
+       transform="matrix(0,1.25,1.25,0,1165.6062,982.20404)">
+      <path
+         d="M 0,0 21.593,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5076"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5078"
+       transform="matrix(0,1.25,1.25,0,1188.0975,982.20404)">
+      <path
+         d="M 0,0 21.593,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5080"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5082"
+       transform="matrix(0,1.25,1.25,0,1210.59,982.20404)">
+      <path
+         d="M 0,0 21.593,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5084"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5086"
+       transform="matrix(0,1.25,1.25,0,873.20751,946.21779)">
+      <path
+         d="M 0,0 0,338.282"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5088"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5090"
+       transform="matrix(0,1.25,1.25,0,873.20751,968.70904)">
+      <path
+         d="M 0,0 0,215.924"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5092"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5094"
+       transform="matrix(0,1.25,1.25,0,873.20751,991.20154)">
+      <path
+         d="M 0,0 0,215.924"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5096"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5098"
+       transform="matrix(0,1.25,1.25,0,873.20751,1013.694)">
+      <path
+         d="M 0,0 0,215.924"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5100"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5102"
+       transform="matrix(0,1.25,1.25,0,873.20751,923.72529)">
+      <path
+         d="M 0,0 0,215.924"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5104"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5106"
+       transform="matrix(0,1.25,1.25,0,1143.1125,901.23279)">
+      <path
+         d="M 0,0 0,-215.924"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5108"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5110"
+       transform="matrix(0,1.25,1.25,0,1143.1125,878.74154)">
+      <path
+         d="M 0,0 0,-215.924"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5112"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5114"
+       transform="matrix(0,1.25,1.25,0,1003.6613,1036.1853)">
+      <path
+         d="M 0,0 -71.974,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5116"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5118"
+       transform="matrix(0,1.25,1.25,0,1466.9988,914.72779)">
+      <path
+         d="M 0,0 0,-136.752"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5120"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5122"
+       transform="matrix(0,1.25,1.25,0,1466.9988,982.20404)">
+      <path
+         d="M 0,0 0,-136.752"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5124"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5126"
+       transform="matrix(0,1.25,1.25,0,1044.1475,946.21779)">
+      <path
+         d="M 0,0 -71.975,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5128"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5130"
+       transform="matrix(0,1.25,1.25,0,985.66752,946.21779)">
+      <path
+         d="M 0,0 -71.975,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5132"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5134"
+       transform="matrix(0,1.25,1.25,0,904.69626,1036.1853)">
+      <path
+         d="M 0,0 -143.949,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5136"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5138"
+       transform="matrix(0,1.25,1.25,0,936.18502,946.21779)">
+      <path
+         d="M 0,0 -71.975,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5140"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5142"
+       transform="matrix(0,1.25,1.25,0,1084.6325,946.21779)">
+      <path
+         d="M 0,0 -71.975,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5144"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5146"
+       transform="matrix(0,1.25,1.25,0,1143.1125,856.24904)">
+      <path
+         d="M 0,0 143.949,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5148"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5150"
+       transform="matrix(0,1.25,1.25,0,945.18252,946.21779)">
+      <path
+         d="M 0,0 71.974,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5152"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5154"
+       transform="matrix(0,1.25,1.25,0,1044.1475,946.21779)">
+      <path
+         d="M 0,0 71.974,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5156"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5158"
+       transform="matrix(0,1.25,1.25,0,1084.6325,946.21779)">
+      <path
+         d="M 0,0 71.974,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5160"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5162"
+       transform="matrix(0,1.25,1.25,0,1233.0813,1009.1953)">
+      <path
+         d="M 0,0 -50.382,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5164"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5166"
+       transform="matrix(0,1.25,1.25,0,1264.57,946.21779)">
+      <path
+         d="M 0,0 50.382,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5168"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5170"
+       transform="matrix(0,1.25,1.25,0,1296.0588,1036.1853)">
+      <path
+         d="M 0,0 -143.949,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5172"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5174"
+       transform="matrix(0,1.25,1.25,0,1466.9988,856.24904)">
+      <path
+         d="m 0,0 0,-475.033 143.949,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5176"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5178"
+       transform="matrix(0,1.25,1.25,0,1466.9988,1036.1853)">
+      <path
+         d="M 0,0 0,-1155.199"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5180"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5182"
+       transform="matrix(0,1.25,1.25,0,1466.9988,28.539034)">
+      <path
+         d="M 0,0 806.117,0"
+         style="fill:none;stroke:#231f20;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path5184"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       transform="scale(1.0929055,0.91499215)"
+       style="font-variant:normal;font-size:11.79928112px;font-family:NSimSun;-inkscape-font-specification:NSimSun-GBK-EUC-H;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5188"
+       x="1235.2759"
+       y="959.9707">
+      <tspan
+         x="1235.2759 1248.0356 1260.7954 1273.5552 1286.4564"
+         y="959.9707"
+         sodipodi:role="line"
+         id="tspan5190" />
+      <tspan
+         x="1202.3441 1214.4183 1226.4926 1238.5668 1250.641 1262.7151 1274.7893 1286.8635 1298.9377 1311.012 1323.0862"
+         y="979.64008"
+         sodipodi:role="line"
+         id="tspan5192" />
+    </text>
+    <text
+       transform="scale(1.0954451,0.91287094)"
+       style="font-variant:normal;font-size:9.85558319px;font-family:NSimSun;-inkscape-font-specification:NSimSun-GBK-EUC-H;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5194"
+       x="1117.4312"
+       y="1123.2568">
+      <tspan
+         x="1117.4312 1131.5986"
+         y="1123.2568"
+         sodipodi:role="line"
+         id="tspan5196" />
+    </text>
+    <text
+       transform="scale(1.0954451,0.91287094)"
+       style="font-variant:normal;font-size:9.85558319px;font-family:NSimSun;-inkscape-font-specification:NSimSun-GBK-EUC-H;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5202"
+       x="1064.0465"
+       y="1059.1964">
+      <tspan
+         x="1064.0465 1072.3942 1080.8798 1096.7572 1129.7438 1139.5994 1158.4926 1168.3481"
+         y="1059.1964"
+         sodipodi:role="line"
+         id="tspan5204" />
+    </text>
+    <text
+       transform="scale(1.0971391,0.91146142)"
+       style="font-variant:normal;font-size:8.88367271px;font-family:NSimSun;-inkscape-font-specification:NSimSun-GBK-EUC-H;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5206"
+       x="902.4986"
+       y="1025.464">
+      <tspan
+         x="902.4986 911.52258 920.60883 929.76611 938.9234"
+         y="1025.464"
+         sodipodi:role="line"
+         id="tspan5208" />
+    </text>
+    <text
+       transform="scale(1.0954451,0.91287094)"
+       style="font-variant:normal;font-size:9.85558319px;font-family:NSimSun;-inkscape-font-specification:NSimSun-GBK-EUC-H;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5210"
+       x="957.27802"
+       y="1024.7021">
+      <tspan
+         x="957.27802 975.14221 994.2384 1002.8581 1014.4936 862.83197 876.99835 829.98328 839.83887"
+         y="1024.7021"
+         sodipodi:role="line"
+         id="tspan5212" />
+      <tspan
+         x="801.23456 811.09015"
+         y="1049.3411"
+         sodipodi:role="line"
+         id="tspan5214" />
+      <tspan
+         x="801.23456 811.09015"
+         y="1073.98"
+         sodipodi:role="line"
+         id="tspan5216" />
+      <tspan
+         x="801.23456 811.09015"
+         y="1098.619"
+         sodipodi:role="line"
+         id="tspan5218" />
+      <tspan
+         x="801.23456 811.09015"
+         y="1123.2579"
+         sodipodi:role="line"
+         id="tspan5220" />
+      <tspan
+         x="801.23456 811.09015"
+         y="1024.7021"
+         sodipodi:role="line"
+         id="tspan5222" />
+    </text>
+    <text
+       transform="scale(1.0954451,0.91287094)"
+       style="font-variant:normal;font-size:9.85558319px;font-family:NSimSun;-inkscape-font-specification:NSimSun-GBK-EUC-H;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5228"
+       x="920.32031"
+       y="1049.3402">
+      <tspan
+         x="920.32031 928.94397 940.58344"
+         y="1049.3402"
+         sodipodi:role="line"
+         id="tspan5230" />
+      <tspan
+         x="920.32031 930.1759 1068.1541 1082.3165"
+         y="1123.2571"
+         sodipodi:role="line"
+         id="tspan5232" />
+    </text>
+    <text
+       transform="scale(1.0929055,0.91499215)"
+       style="font-variant:normal;font-size:11.79928112px;font-family:NSimSun;-inkscape-font-specification:NSimSun-GBK-EUC-H;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5246"
+       x="1243.5085"
+       y="1038.6315">
+      <tspan
+         x="1243.5085 1254.0017 1264.5656 1275.1294 1286.9323 1299.9622 1317.6647"
+         y="1038.6315"
+         sodipodi:role="line"
+         id="tspan5248" />
+      <tspan
+         x="1054.1655 1064.7306 1075.2957 1085.9315 1096.6382 1108.3713 1126.0043 1138.7639 1151.5237"
+         y="989.46387"
+         sodipodi:role="line"
+         id="tspan5250" />
+    </text>
+    <text
+       style="font-variant:normal;font-size:33.28837585px;font-family:SimSun;-inkscape-font-specification:SimSun-ExtB-GBK-EUC-H;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5252"
+       x="1035.1504"
+       y="151.64554">
+      <tspan
+         x="1035.1504 1051.7946 1068.4387 1085.083 1101.7272 1124.6628 1141.307 1157.9512 1174.5955 1191.2396 1207.8838 1224.528 1241.1721 1257.8163"
+         y="151.64554"
+         sodipodi:role="line"
+         id="tspan5254" />
+      <tspan
+         x="333.39816 350.04236 366.68658 383.33072 399.97491 422.47787 439.12204 455.76624 472.41043 489.0546 505.69879 522.34296 538.98718"
+         y="142.65768"
+         sodipodi:role="line"
+         id="tspan5256" />
+    </text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="877.85718"
+       y="939.50507"
+       id="text6369"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371"
+         x="877.85718"
+         y="939.50507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">标记</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="908.97742"
+       y="939.71149"
+       id="text6369-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-4"
+         x="908.97742"
+         y="939.71149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">处数</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="948.97736"
+       y="939.71149"
+       id="text6369-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-6"
+         x="948.97736"
+         y="939.71149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">分区</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="986.9566"
+       y="939.61389"
+       id="text6369-5-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-6-1"
+         x="986.9566"
+         y="939.61389"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">更改文件号</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1053.3853"
+       y="941.04242"
+       id="text6369-5-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-6-4"
+         x="1053.3853"
+         y="941.04242"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">签名</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1090.2045"
+       y="940.47461"
+       id="text6369-5-2-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-6-4-6"
+         x="1090.2045"
+         y="940.47461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">年 月 日</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="877.54883"
+       y="961.85443"
+       id="text6369-53"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-7"
+         x="877.54883"
+         y="961.85443"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">设计</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="878.26312"
+       y="984.71155"
+       id="text6369-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-64"
+         x="878.26312"
+         y="984.71155"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">校对</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="877.54883"
+       y="1006.1401"
+       id="text6369-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-8"
+         x="877.54883"
+         y="1006.1401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">审核</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="876.1203"
+       y="1028.283"
+       id="text6369-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-2"
+         x="876.1203"
+         y="1028.283"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">工艺</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1005.4059"
+       y="961.85443"
+       id="text6369-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-3"
+         x="1005.4059"
+         y="961.85443"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">标准化</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1011.8345"
+       y="1028.9972"
+       id="text6369-68"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-34"
+         x="1011.8345"
+         y="1028.9972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">批准</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1312.5488"
+       y="884.68713"
+       id="text6369-68-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-34-1"
+         x="1312.5488"
+         y="884.68713"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">      中国科学院</tspan><tspan
+         sodipodi:role="line"
+         x="1312.5488"
+         y="900.31213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan6529">上海光学精密机械研究所</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1372.7678"
+       y="956.22687"
+       id="text6369-0-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-3-7"
+         x="1372.7678"
+         y="956.22687"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">图名</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1168.8103"
+       y="903.85364"
+       id="text6369-0-2-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-3-7-3"
+         x="1168.8103"
+         y="903.85364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">原理图 OR PCB板图</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1163.2388"
+       y="971.09125"
+       id="text6369-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-64-1"
+         x="1163.2388"
+         y="971.09125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">阶段标记</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1238.2386"
+       y="971.09131"
+       id="text6369-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-64-6"
+         x="1238.2386"
+         y="971.09131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">数量</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1267.5245"
+       y="971.09131"
+       id="text6369-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-64-4"
+         x="1267.5245"
+         y="971.09131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">比例</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1271.3707"
+       y="1001.7813"
+       id="text6369-1-0-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-64-4-6"
+         x="1271.3707"
+         y="1001.7813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">1:1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1149.8494"
+       y="1000.2039"
+       id="text6369-1-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-64-4-2"
+         x="1149.8494"
+         y="1000.2039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1166.4004"
+       y="1026.5161"
+       id="text6369-1-0-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-64-4-66"
+         x="1166.4004"
+         y="1026.5161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">共  张      第  张</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1359.7678"
+       y="1012.3832"
+       id="text6369-0-2-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6371-3-7-2"
+         x="1359.7678"
+         y="1012.3832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:SimSun;-inkscape-font-specification:'SimSun, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">图的编号</tspan></text>
+    <image
+       y="306.86218"
+       x="986.64288"
+       id="image4163"
+       xlink:href="{{ imgdata }}"
+       height="200"
+       width="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:90.07820892px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="243.46468"
+       y="311.67764"
+       id="text3125"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3127"
+         x="243.46468"
+         y="311.67764">{{ templatename }}</tspan></text>
+  </g>
+</svg>
