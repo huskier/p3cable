@@ -22,3 +22,9 @@ SVG, PDF, IMAGE....
 
 Cable label....(起点/终点)，线缆标签如何确定是起点还是终点呢？？？？？？
 
+Cable Design Tool (CDT......)
+https://cables.pickeringtest.com/
+
+K*a*b*l*eQuery
+KapleQuery......
+
